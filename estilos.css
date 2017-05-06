@@ -13,12 +13,19 @@ body {
 	
 }
 
+.container {
+	
+	
+	width=100%;
+	max-width:1000px;
+	
+}
+
 .main{
 	
-	width:90%;
-	min-width:1000px;
+	width:70%;
 	margin:20px auto;
-	
+	box-sizing:border-box;
 }
 
 .slides {
