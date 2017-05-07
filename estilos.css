@@ -32,7 +32,7 @@ body {
 
 .slides {
 	width:100%;
-	 align-items: center;
+	 
 	max-width:1000px;
 
 	
@@ -46,7 +46,7 @@ body {
 	
 	width: 1000px;
 	height:700px;
-	 align-items: center;
+	 
 
 	#1450
 	#1040px
@@ -58,7 +58,7 @@ body {
 	background:#424242;
 	list-style:none;
 	overflow:hidden;
-	 align-items: center;
+	
 
 	
 	}
