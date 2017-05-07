@@ -8,8 +8,7 @@ padding;0;
 
 
 body {
-	width=100%;
-	max-width:1000px;
+	
 	background:#f2f2f2;
 	
 
@@ -20,9 +19,11 @@ body {
 
 .main{
 	
-	width:100%;
+	
+	width:90%;
+	min-width:1000px;
 	margin:20px auto;
-        max-width:1000px;
+        
 
 
 	
@@ -42,9 +43,7 @@ body {
 .slides img {
 	
 	
-	width=1000%;
-	height:700px;
-	 
+	width=100%;
 
 	#1450
 	#1040px
