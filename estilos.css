@@ -1,5 +1,5 @@
 
-*{
+* {
 
 margin:0;
 padding;0;
@@ -8,8 +8,8 @@ padding;0;
 
 
 body {
-	
-	
+	width=100%;
+	max-width:1000px;
 	background:#f2f2f2;
 	
 
