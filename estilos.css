@@ -16,17 +16,7 @@ body {
 	
 }
 
-.container {
-	
-	
-	width=100%;
-	max-width:1000px;
-	
-	
 
-	
-	
-}
 
 .main{
 	
@@ -43,6 +33,7 @@ body {
 .slides {
 	width:100%;
 	 align-items: center;
+	max-width:1000px;
 
 	
 	
