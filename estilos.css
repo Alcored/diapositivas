@@ -1,37 +1,28 @@
-
-* {
-
-margin:0;
-padding:0;
-
+*  {
+	
+	margin:0;
+	padding:0;
+	
+	
 }
-
 
 body {
 	
+	
 	background:#f2f2f2;
 	
+}
 
-	}
-
-
-
-.main {
+.main{
 	
-	width=100%;
+	width:90%;
 	min-width:1000px;
 	margin:20px auto;
-       
-	
 	
 }
 
 .slides {
-	
-	width=100%;
-	box-sizing:border;
-	
-	
+	width:100%;
 	
 	
 }
@@ -40,9 +31,8 @@ body {
 .slides img {
 	
 	
-	width=100%;
-	
-        
+	width: 1700px;
+	height:600px;
 	#1450
 	#1040px
 	
@@ -54,8 +44,6 @@ body {
 	list-style:none;
 	overflow:hidden;
 	
-
-	
 	}
 	
 	.slidesjs-pagination  li {
@@ -66,9 +54,11 @@ body {
 	
 .slidesjs-pagination  li  a {
 	display: block;
-	padding:13.5px 20px;
+	padding:10px 20px;
     color:#fff;
 	text-decoration: none;
+	
+	
 }
 
 .slidesjs-pagination  li  a:hover {
@@ -89,18 +79,18 @@ body {
 	background: #000;
 	color:#fff;
 	text-decoration:none;
-	display:inline-block;
-	padding:13.5px  20px;
+	#display:inline-block;
 	float:right;
-	
+	padding:10px  20px;
+
 }
 
 .slides h1 {
 	
-	text-color:#fff;
+	text-color:#c0c0c0;
 	color:#fff;
     text-align: center;
-   font-size:60px;
+   font-size:70px;
    opacity: 0.5;
    position: absolute;
     top: 150px;
@@ -111,4 +101,19 @@ body {
  ##<img src="https://www.imageupload.co.uk/images/2017/05/01/evaluacion.jpg" alt="" >
  #bottom:25px;
  #top --> mas pixeles baja , menos sube 
+}
+
+h2  {
+	margin-left: 70px;
+  margin-top:10px;
+  margin bottom:20px;
+}
+
+h4  {
+	
+text-align: right;
+margin-right: 70px;
+margin-top: 10px;
+margin-bottom:20px;	
+	
 }
