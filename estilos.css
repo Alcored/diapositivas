@@ -12,26 +12,22 @@ body {
 	background:#f2f2f2;
 	
 
-	
-}
+	}
 
 
 
-.main{
-	
+.main {
 	
 	width:90%;
 	min-width:1000px;
 	margin:20px auto;
-        
-
-
-	
+       
 	
 	
 }
 
 .slides {
+	
 	width=100%;
 
 	
@@ -43,8 +39,8 @@ body {
 .slides img {
 	
 	
-	width=100%;
-
+	width:1000px;
+        
 	#1450
 	#1040px
 	
