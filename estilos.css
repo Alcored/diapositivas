@@ -108,7 +108,7 @@ body {
 .slidesjs-pagination  li  a {
 	display: block;
 	padding:13.5px 20px;
-    color:#c0c0c0;
+    color:#ffffff;
 	text-decoration: none;
 	
 	
@@ -130,7 +130,7 @@ body {
 .slidesjs-navigation {
 	
 	background: #000;
-	color:#d3d3d3;
+	color:#ffffff;
 	text-decoration:none;
 	#display:inline-block;
 	float:right;
@@ -140,7 +140,7 @@ body {
 
 .slides h1 {
 	
-	text-color:#d3d3d3;
+	text-color:#ffffff;
 	color:#c0c0c0;
     text-align: center;
    font-size:70px;
