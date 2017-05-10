@@ -63,12 +63,12 @@ body {
 	
 	
 	background:#000000;
-	
+	margin-left:12em;
 }
 
 .main{
 	
-	width:90%;
+	width:70%;
 	min-width:1000px;
 	margin:20px auto;
 	
