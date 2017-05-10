@@ -70,7 +70,7 @@ body {
 
 .main{
 	
-	width:90%;
+	width:100%;
 	min-width:1000px;
 	/*margin:20px auto;*/
 	
@@ -136,29 +136,24 @@ body {
 	text-decoration:none;
 	#display:inline-block;
 	float:right;
-	padding:13.5px  20px;
+	padding:10px  20px;
 
 }
 
 .slides h1 {
 	
-	text-color:#ffffff;
+	text-color:#c0c0c0;
 	color:#ffffff;
-    text-align: center;
+    text-align:center;
+    margin-top:0;
    font-size:70px;
    opacity: 0.5;
    position: absolute;
-    top: 100px;
-   left: 0;
-   width: 100%;
+    top: 90px;
+    width: 100%;
    font-family:Berlin Sans FB Demi, Book Antiqua;
-# font-size: 100px;
- ##<img src="https://www.imageupload.co.uk/images/2017/05/01/evaluacion.jpg" alt="" >
- #bottom:25px;
- #top --> mas pixeles baja , menos sube 
-}
 
-h2  {
+	h2  {
 	margin-left: 70px;
   margin-top:10px;
   margin bottom:20px;
