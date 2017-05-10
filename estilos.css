@@ -63,7 +63,7 @@ body {
 	
 	
 	background:#000000;
-	margin-left:6em;
+	margin-left:10em;
 	
 	
 }
@@ -72,12 +72,12 @@ body {
 	
 	width:90%;
 	min-width:1000px;
-	margin:20px auto;
+	/*margin:20px auto;*/
 	
 }
 
 .slides {
-	width:100%;
+	width:86%;
 	
 	
 }
