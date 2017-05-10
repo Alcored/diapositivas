@@ -35,7 +35,7 @@ nav ul li {
  
 nav ul li a {
   display: block; /* Convertimos los elementos a en elementos bloque para manipular el padding */
-  padding: 35px;
+  padding: 20px;
   color: #fff;
   text-decoration: none;
 }
